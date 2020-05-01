@@ -26,8 +26,6 @@ import data.User;
  
 public class RegisterFrame extends JFrame {
 	DbUtil dbutil = new DbUtil();
-	//CustomerUserDao customerUserDao=new CustomerUserDao();
-	
 	private JPanel contentPane;
 	private JTextField textField1;
 	private JTextField textField2;
