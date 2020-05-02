@@ -1,4 +1,4 @@
-package ui;
+package cilent.ui;
 
 
 import java.awt.FlowLayout;
